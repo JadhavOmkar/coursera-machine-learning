@@ -12,7 +12,7 @@ About:
 Andrew Ng has become a prominent voice for machine learning. He often compare the machine learning revolution with the electricity revolution.
 
 As a student of life, I took this course to gain a better intuition for machine learning. Since this course uses Octave, the coding
-will not be relevant to most. Thus, the incredible insight from Andrew Ng made the course worthwhile.
+will not be relevant to most. However, the incredible insight from Andrew Ng made the course worthwhile. The intuition on complicated concepts makes this one of the best machine learning course I have taken.
 
 ---
 ## Sections:
