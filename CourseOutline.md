@@ -17,7 +17,7 @@
 		- Matrix Properties
 		- Notation and terms
 2. [02_Week]
-	1. [Multi-variateLinearRegression]
+	1. [MultivariateLinearRegression]
 		- Multiple Features
 		- Gradient Descent in Practice I
 		- Gradient Descent in Practice II
@@ -32,7 +32,7 @@
 	2. [LogisticRegressionModel]
 		- Cost Function
 		- Simplified Cost Function and Gradient Descent
-	3. [Multi-classClassification]
+	3. [MulticlassClassification]
 	4. [SolvingProblemOverfitting]
 		- The Problem of Overfitting
 		- Cost Function
@@ -47,38 +47,35 @@
 	3. [Applications]
 		- Examples and Intuition I
 		- Examples and Intuition II
-		- Multi-class classification
+		- Multiclass classification
 5. [05_Week]
-	1. [Applications]
-		- Examples and Intuition I
-		- Examples and Intuition II
-		- Multi-class classification
-	2. [CostFunction&Backprogation]
+	1. [CostFunction&Backprogation]
 		- Cost Function
 		- Backprogation Algorithm
 		- Extras
-	3. [BackprogrationInPractice]
+	2. [BackprogrationInPractice]
 		- Implementation Note: Unrolling Parameters
 		- Gradient Checking
 		- Random Initialization
-	4. [EvaluatingLearningAlgorithm]
+6. [06_Week]
+	1. [EvaluatingLearningAlgorithm]
 		- Evaluating a Hypothesis
 		- Model Selection and Train/Test/Validation Set
-	5. [BiasVariance]
+	2. [BiasVariance]
 		- Diagnosing Bias vs. Variance
 		- Regularization and Bias/Variance
 		- Learning Curves
 		- Deciding What to Do Next Revisited
 		- Extras
-	6. [BuildingSpamClassifier]
+	3. [BuildingSpamClassifier]
 		- Prioritizing What to Work On
 		- Error Analysis
-	7. [HandlingSkewedData]
+	4. [HandlingSkewedData]
 		- Error Metrics for Skewed Data
 		- Trading Off Precision and Recall
-	8. [UsingLargeDatasets]
+	5. [UsingLargeDatasets]
 		- Data for Machine Learning
-6. [07_Week]
+7. [07_Week]
 	1. [LargeMarginClassification]
 		- Optimization Objective
 		- Large Margin Intuiton
@@ -86,10 +83,9 @@
 	2. [Kernels]
 		- Kernels I
 		- Kernels II
-		- SVM Parameters
 	3. [SVMsInPractice]
 		- Using an SVM
-7. [08_Week]
+8. [08_Week]
 	1. [Clustering]
 		- Unsurpvised Learning: Introduction
 		- K-Means
@@ -106,27 +102,28 @@
 		- Reconstruction from Compressed Representation
 		- Choosing the Number of Principal Components
 		- Advice for Applying PCA
-	5. [DensityEstimation]
+9. [09_Week]
+	1. [DensityEstimation]
 		- Problem Motivation
 		- Gaussian Distribution
 		- Algorithm
-	6. [BuildingAnomalyDetection]
+	2. [BuildingAnomalyDetection]
 		- Developing and Evaluating an Anomaly Detection System
 		- Anomaly Detection vs. Supervised Learning
 		- Choosing What Features to Use
-	7. [MultivariateGaussianDist]
+	3. [MultivariateGaussianDistribution]
 		- Multivariate Gaussian Distribution
 		- Anomaly Detection Using Multivariate Guassian Distribution
-	8. [PredictiveMovieRatings]
+	4. [PredictiveMovieRatings]
 		- Problem Formulation
 		- Content Based Recommendations
-	9. [CollaborativeFilterings]
+	5. [CollaborativeFilterings]
 		- Collaborative Filtering
 		- Collaborative Filtering Algorithm
-	10. [LowRankMatrixFactor]
+	6. [LowRankMatrixFactor]
 		- Vectorization: Low Rank Matrix Factorization
 		- Implementational Detail: Mean Normalization
-8. [09_Week]
+10. [10_Week]
 	1. [GradientDescentLargeDatasets]
 		- Learning With Large Datasets
 		- Stochastic Gradient Descent
@@ -135,7 +132,7 @@
 	2. [AdvancedTopics]
 		- Online learning
 		- Map Reduce and Data Parallelism
-9. [10_Week]
+11. [11_Week]
 	1. [PhotosOCR]
 		- Problem Description and Pipeline
 		- Sliding Windows
